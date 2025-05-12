@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m a independent developer trying improve myself.<br>🤝 I’m looking for help with<br>🌱 I’ll start many project in various programming languages like Python, React, Angular and many more !<br>💬 Glad to here tips from you.
+<br>🔭 I’m a independent developer trying improve myself.<br>🤝 If you want to collaborate, just DM me.<br>🌱 I’ll start many project in various programming languages like Python, React, Angular and many more !<br>💬 Glad to here tips from you.
 
 
 # 💻 Tech Stack:
